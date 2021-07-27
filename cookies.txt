@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.motocms.com	TRUE	/	FALSE	1999999999	moto__uid	12dde407ff245aca4f20feaff97b2f28
+.motocms.com	TRUE	/	FALSE	1999999999	moto__cleaner	1
+.motocms.com	TRUE	/	FALSE	1999999999	moto__bt	%7B%22email%22%3A%22jul2021_1627338618_bt_noreply%40motocms.com%22%2C%22hash%22%3A%225f4b06ad23d34b7b64291696076917c3%22%7D
+.motocms.com	TRUE	/	FALSE	1999999999	moto__countrysale	%7B%22pageView%22%3A1%2C%22close%22%3A0%2C%22apply%22%3A0%2C%22showPopup%22%3A0%2C%22isNewClient%22%3A1%7D
+.motocms.com	TRUE	/	FALSE	1999999999	demo_referrer	direct
+.motocms.com	TRUE	/	FALSE	1999999999	moto__refer	https%3A%2F%2Fwww.motocms.com%2Fwebsite-templates%2Fdemo%2F67982.html
+

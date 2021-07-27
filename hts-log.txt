@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 26 Jul 2021 19:30:17 at https://www.motocms.com/website-templates/demo/67982.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.motocms.com/website-templates/demo/67982.html -O1 "C:\My Web Sites\Museo10" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:30:19	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.motocms.com/website-templates/demo/67982.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 6 links scanned, 4 files written (440559 bytes overall) [105678 bytes received at 35226 bytes/sec], 439441 bytes transferred using HTTP compression in 4 files, ratio 22%, 2.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
